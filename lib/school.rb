@@ -16,8 +16,9 @@ class School
       roster[grade] << student
     end
   end
-  def grade=(grade)
-    @grade=grade
+  def grade(num)
+    puts "grade"
+    
   end
   
 end
