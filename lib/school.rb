@@ -17,8 +17,7 @@ class School
     end
   end
   def grade(num)
-    puts "grade"
-    
-  end
+    roster[#{num}]
+    end
   
 end
