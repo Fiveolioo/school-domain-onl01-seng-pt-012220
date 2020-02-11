@@ -20,7 +20,7 @@ class School
     roster[num]
     end
   def sort(stu)
-    student.stu.sort
+    stu.sort
   end
   
 end
