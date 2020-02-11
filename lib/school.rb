@@ -19,5 +19,8 @@ class School
   def grade(num)
     roster[num]
     end
+  def sort(stu)
+    student.sort
+  end
   
 end
